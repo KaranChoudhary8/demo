@@ -1,0 +1,1 @@
+enum amountType {Expense, Earning}
